@@ -7,11 +7,20 @@ and it is available at:
 Windows:
 [here](/releases/Opal-Alpha-0.0.1/Opal-Alpha-0.0.1-win32-x64.rar)
 
+Windows Install instructions:
+
 Mac:
 ./releases/Opal-Alpha-0.0.1/[tba]
 
+Mac Install instructions:
+
 Linux:
 ./releases/Opal-Alpha-0.0.1/[tba]
+
+Linux Install instructions:
+
+You can also build the Meteor Application following the instruction sets on that page
+[Current Meteor Build Opal Alpha 0.0.1](../Opal-Alpha-0.0.1)
 
 
 This is a bare bones basic feature release to get community feedback. We will follow
@@ -31,5 +40,4 @@ EGEM: 0x9b41c5d87deb2fedc2ef419411cf82e6827cbcbd
 and register your address on our discord channel because it will rain on the
 community.
 
-Install instructions:
- To be updated
+'''Updates are in progress'''
