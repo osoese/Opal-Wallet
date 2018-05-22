@@ -5,9 +5,11 @@ The current release is Opal-Alpha-0.0.1
 
 and it is available at:
 Windows:
-[here](/releases/Opal-Alpha-0.0.1/Opal-Alpha-0.0.1-win32-x64.rar)
+[Opal-Alpha-0.0.1-win32-x64.rar](/releases/Opal-Alpha-0.0.1/Opal-Alpha-0.0.1-win32-x64.rar)
 
-Windows Install instructions:
+Windows Install instructions: Download and extract, enter the Opal-Alpha-0.0.1-win32-x64 directory
+and double click the Opal-Alpha-0.0.1-win32-x64.exe then accept TWO access requests:
+ 
 
 Mac:
 ./releases/Opal-Alpha-0.0.1/[tba]
