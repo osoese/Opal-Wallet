@@ -20,7 +20,7 @@ Linux:
 Linux Install instructions:
 
 You can also build the Meteor Application following the instruction sets on that page
-[Current Meteor Build Opal Alpha 0.0.1](../Opal-Alpha-0.0.1)
+[Current Meteor Build Opal Alpha 0.0.1](../../../Opal-Alpha-0.0.1)
 
 
 This is a bare bones basic feature release to get community feedback. We will follow
