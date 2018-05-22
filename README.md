@@ -6,8 +6,10 @@ The current release is Opal-Alpha-0.0.1
 and it is available at:
 Windows:
 [here](/releases/Opal-Alpha-0.0.1/Opal-Alpha-0.0.1-win32-x64.rar)
+
 Mac:
 ./releases/Opal-Alpha-0.0.1/[tba]
+
 Linux:
 ./releases/Opal-Alpha-0.0.1/[tba]
 
